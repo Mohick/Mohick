@@ -64,5 +64,6 @@ I enjoy turning creative ideas into functional user interfaces, optimizing perfo
 
 ⭐ *“Building intuitive, efficient, and scalable web applications one project at a time.”*
 
-![Portfolio Animation](assets/animation.gif)
+<img src="assets/animation.gif" alt="Portfolio Animation" style="width: 100%; height: auto;" />
+
 
