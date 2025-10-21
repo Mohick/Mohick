@@ -56,7 +56,7 @@ I enjoy turning creative ideas into functional user interfaces, optimizing perfo
 ---
 
 ## 🌐 Connect with Me
-- 📫 Email: [haokietks7@gmail.com](mailto:dubaonhan@gmail.com)  
+- 📫 Email: [dubaonhan@gmail.com](mailto:dubaonhan@gmail.com)  
 - 💼 GitHub: [github.com/Mohick](https://github.com/Mohick)  
 - 🌍 Location: Hoa Thanh – Tan Phu – Ho Chi Minh City, Vietnam  
 
