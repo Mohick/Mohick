@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Du Bao Nhan
-
+---
 I'm a **Fullstack Developer** focused on building scalable web applications with **React**, **Golang**, and **Node.js**. Currently leading a small team to deliver an Agri-Tech platform from architecture to deployment.
 ---
 ## 🚀 Summary
