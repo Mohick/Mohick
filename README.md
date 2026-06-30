@@ -1,67 +1,52 @@
 # 👋 Hi there, I'm Du Bao Nhan
 
-I'm a **Front-End Developer (Fresher)** passionate about creating responsive and high-performance web applications using **React**, **Angular**, and **TypeScript**.  
-I enjoy turning creative ideas into functional user interfaces, optimizing performance, and continuously learning new technologies to improve my craft.
-
+I'm a **Fullstack Developer** focused on building scalable web applications with **React**, **Golang**, and **Node.js**. Currently leading a small team to deliver an Agri-Tech platform from architecture to deployment.
 ---
-
 ## 🚀 Summary
-- 🌱 Front-end developer with 2+ years of experience in **JavaScript (ES6+)** and 1 year with **TypeScript**.  
-- 💻 Skilled in building and deploying **React** and **Angular** applications with CRUD operations and state management (**React Query**, **Zustand**).  
-- 🧩 Experienced in developing responsive UIs using **Tailwind CSS**, **SCSS**, and **Bootstrap**.  
-- ⚙️ Basic understanding of back-end development with **Node.js**, **Express**, and **MongoDB**.  
-- 🎯 Passionate about UI/UX, clean code, and performance optimization.  
-
+- 🛠️ Fullstack developer with hands-on experience across **Frontend (React, TypeScript,NextJS)** and **Backend (Golang, Node.js, Express)**
+- 👥 Led a development team as Team Leader during a Fullstack internship at PiOne, designing system architecture and managing project delivery
+- 🏗️ Experienced in Layered Architecture, RBAC, real-time systems (Socket.io), and performance optimization (Redis caching)
+- 🧩 Comfortable working across the stack — from DB design to UI implementation
 ---
-
 ## 💡 Tech Stack
-**Languages:** JavaScript (ES6+), TypeScript  
-**Frameworks:** React, Angular  
-**State Management:** React Query, Zustand  
-**Styling:** SCSS, Tailwind CSS, Bootstrap, Responsive Design  
-**Back-End (Basic):** Node.js, Express, MongoDB  
-**Tools:** Git/GitHub, Postman, Netlify, VS Code, ChatGPT  
-
+**Languages:** JavaScript (ES6+), TypeScript, Go  
+**Frontend:** React, Next.js, TailwindCSS, Bootstrap  
+**Backend:** Golang (Gin), GORM, Node.js, Express  
+**Database:** MySQL, MongoDB, Redis  
+**State Management:** TanStack Query, Zustand  
+**Realtime:** Socket.io  
+**Tools:** Git/GitHub, Postman, Trello, Netlify, Render, CronJobs
 ---
-
-## 🧠 Projects
-
-### 🛒 [Shopee Interface Clone (ReactJS)](https://github.com/Mohick/Clone-Shopee)
-*May 2024 – July 2024*  
-- Built main marketplace UI with product listing, search/filter, and shopping cart.  
-- Implemented responsive design using **Tailwind CSS** and **SCSS**.  
-- **Tech:** React, TypeScript, SCSS, Tailwind  
-- [Demo](https://clone-shopee-dnb.netlify.app)
-
+## 🧠 Featured Projects
+### 🌾 Agri-Tech Platform *(Confidential — PiOne Internship)*
+*Apr 2026 – Jul 2026 · Role: Team Leader + Backend*
+- Led development team — analyzed DB schema, designed system architecture, established codebase conventions
+- Architected scalable backend using **Golang (Gin) + GORM** with Layered Architecture, integrated with **MySQL**
+- Built core modules: RBAC, multi-variant products, cart, order tracking, real-time chat
+- **Tech:** Golang, Gin, GORM, MySQL, Next.js, TypeScript, TailwindCSS
 ---
-
-### 📚 [Store Book (Angular)](https://github.com/Mohick/Store-Book)
-*March 2025*  
-- Implemented **lazy loading** and **pagination** to optimize performance.  
-- Added dynamic banner sliders and search features for a smooth user experience.  
-- **Tech:** Angular, TypeScript, Tailwind CSS, Mock DB  
-
+### ✅ [Task Manager](https://github.com/Mohick) *(Fullstack — Solo)*
+*Aug 2025 – May 2026*
+- Built fullstack task management platform with real-time collaboration and role-based access control
+- Reduced load time from **4s → 2s** via Redis caching strategy and Cloudinary integration for media
+- **Tech:** React 19, TypeScript, Node.js, Express, MongoDB, Redis, Socket.io, Zustand, Bun
+- **Demo:** [poetic-licorice-4780d2.netlify.app](https://poetic-licorice-4780d2.netlify.app)
 ---
-
+### 🛒 [Shopee Interface Clone](https://github.com/Mohick/Clone-Shopee)
+*May 2024 – Jul 2024*
+- Built marketplace UI with product listing, search/filter, and cart functionality
+- **Tech:** React, TypeScript, SCSS, Tailwind CSS
+- **Demo:** [clone-shopee-dnb.netlify.app](https://clone-shopee-dnb.netlify.app)
+---
 ## 🎓 Education
 **College of Information Technology – Ho Chi Minh City**  
-*Major: Web Design (2024 – 2026, Expected)*  
-
+Major: Web Design — *2024 – 2026 (Expected)*
 ---
-
 ## 🎯 Career Goals
-- **Short-Term:** Gain real-world experience from projects and apply my knowledge effectively in professional environments.  
-- **Long-Term:** Become a **Full-Stack Developer**, capable of working across both front-end and back-end technologies.  
-
+Looking for a **Fullstack Developer** role at an early-stage startup where I can own features end-to-end — from database design to UI — and grow with the team.
 ---
-
 ## 🌐 Connect with Me
-- 📫 Email: [dubaonhan@gmail.com](mailto:dubaonhan@gmail.com)  
-- 💼 GitHub: [github.com/Mohick](https://github.com/Mohick)  
-- 🌍 Location: Hoa Thanh – Tan Phu – Ho Chi Minh City, Vietnam  
-
----
-
-⭐ *“Building intuitive, efficient, and scalable web applications one project at a time.”*
-
-
+- 📫 [dubaonhan@gmail.com](mailto:dubaonhan@gmail.com)
+- 💼 GitHub: [github.com/Mohick](https://github.com/Mohick)
+- 🔗 LinkedIn: [linkedin.com/in/nhan-du-mohick](https://www.linkedin.com/in/nhan-du-mohick/)
+- 📍 Ho Chi Minh City, Vietnam
