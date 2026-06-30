@@ -40,7 +40,7 @@ Major: Web Design — *2024 – 2026 (Expected)*
 Looking for a **Fullstack Developer** role at an early-stage startup where I can own features end-to-end — from database design to UI — and grow with the team.
 ---
 ## 🌐 Connect with Me
-- 📫 [dubaonhan@gmail.com](mailto:dubaonhan@gmail.com)
+- 📫 Email:[dubaonhan@gmail.com](mailto:dubaonhan@gmail.com)
 - 💼 GitHub: [github.com/Mohick](https://github.com/Mohick)
 - 🔗 LinkedIn: [linkedin.com/in/nhan-du-mohick](https://www.linkedin.com/in/nhan-du-mohick/)
-- 📍 Ho Chi Minh City, Vietnam
+- 📍  Location: Ho Chi Minh City, Vietnam
