@@ -32,12 +32,6 @@ I'm a **Fullstack Developer** focused on building scalable web applications with
 - **Tech:** React 19, TypeScript, Node.js, Express, MongoDB, Redis, Socket.io, Zustand, Bun
 - **Demo:** [poetic-licorice-4780d2.netlify.app](https://poetic-licorice-4780d2.netlify.app)
 ---
-### 🛒 [Shopee Interface Clone](https://github.com/Mohick/Clone-Shopee)
-*May 2024 – Jul 2024*
-- Built marketplace UI with product listing, search/filter, and cart functionality
-- **Tech:** React, TypeScript, SCSS, Tailwind CSS
-- **Demo:** [clone-shopee-dnb.netlify.app](https://clone-shopee-dnb.netlify.app)
----
 ## 🎓 Education
 **College of Information Technology – Ho Chi Minh City**  
 Major: Web Design — *2024 – 2026 (Expected)*
